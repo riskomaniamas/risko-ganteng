@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    display: flex;
+}
+.personal{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;  
+}
+.menubar{
+    width: 50%;
+    height: 100px;    
+    background-color: blue;
+    display: flex;  
+    
+}
+p{
+    color: white;
+}
+.submenu{
+    padding: 20px;
+}
+.submenu:hover{
+    background-color: black;
+}
+.gambar{
+    width: 50%;
+    height: 100%;
+}    
+
